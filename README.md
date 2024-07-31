@@ -4,8 +4,8 @@ This project is a responsive clone of Twitter's user interface, built using HTML
 
 # Built With
 <ul>
-    <li><b>HTML5</b>:Structure of the Web Page</li>
-    <li><b>Tailwind CSS</b>: A utility-first CSS framework for rapid UI development.</li>
+    <li><b><u>HTML5</u></b> : Structure of the Web Page</li>
+    <li><b><u>Tailwind CSS</u></b> : A utility-first CSS framework for rapid UI development.</li>
 </ul>
 
 # Link To Project
