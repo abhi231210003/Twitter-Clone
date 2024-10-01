@@ -8,5 +8,5 @@ This project is a responsive clone of Twitter's user interface, built using HTML
     <li><b>Tailwind CSS</b> : A utility-first CSS framework for rapid UI development.</li>
 </ul>
 
-# Link To Project
+# Link To Website
 <a href="https://abhi231210003.github.io/Twitter-Clone/">Project</a>
